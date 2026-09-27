@@ -1,4 +1,20 @@
-# Cloud Run AI Production Studio
+# DevLog AI — Engineering Career Copilot
+
+> 🚀 Built for the **Google Cloud Run AI Challenge** · `dev-tutorial=cloud-run-ai-challenge` · APAC Cohort 3
+
+[![Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-Deployed-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/run)
+[![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4--Tier%20Fallback-8B5CF6?logo=google&logoColor=white)](https://ai.google.dev)
+[![OWASP](https://img.shields.io/badge/OWASP%20LLM-98.4%25%20Score-10B981?logo=owasp&logoColor=white)](https://owasp.org)
+[![Firebase](https://img.shields.io/badge/Firestore-Owner--Bound-F59E0B?logo=firebase&logoColor=white)](https://firebase.google.com)
+
+**DevLog AI** is a production-grade Engineering Career Copilot that transforms 30-second daily work logs into AI-extracted achievement records, automated standups, sprint summaries, a conversational career memory engine, and executive weekly digests — all running securely on Google Cloud Run with Gemini at its core.
+
+> 📖 **New here? Read the full story first:**
+> ### → [EXPLAINER.md — What DevLog AI Is, Why It Matters & How It Works](./EXPLAINER.md)
+
+---
+
+## Technical README
 
 A secure, enterprise-grade AI web application engineered for the **Google Cloud Run AI Challenge** (`dev-tutorial=cloud-run-ai-challenge`). This application implements robust server-side Gemini AI generation with an automated 4-tier model fallback ladder, agentic threat modeling across the 5 threat zones, OWASP security reviews with concrete code remediation, and owner-bound Firestore security rules.
 
